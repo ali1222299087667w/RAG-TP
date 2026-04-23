@@ -1,10 +1,10 @@
 RAG Project (Retrieval-Augmented Generation)
 
-## 📌 Description
+## Description
 Ce projet implémente un système RAG (Retrieval-Augmented Generation) simple permettant de répondre à des questions en utilisant des données externes (Pdf du rapport de l'OCP en 2023) combinées à un modèle de langage.
 
 ## Technologies utilisées
-- Python 🐍
+- Python
 - LangChain
 - OpenAI API
 
